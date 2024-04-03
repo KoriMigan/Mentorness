@@ -1,0 +1,6 @@
+[submodule "ChatBot_Development"]
+	path = ChatBot_Development
+	url = https://github.com/KoriMigan/ChatBot
+[submodule "Resume_Parser"]
+	path = Resume_Parser
+	url = https://github.com/KoriMigan/Resume_Parser
